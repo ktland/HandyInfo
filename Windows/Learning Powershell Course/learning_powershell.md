@@ -28,3 +28,17 @@
 
 #### How to Read PowerShell
 
+##### Power of the Pipe
+
+- Output from one command becomes input for the next
+- Strings multiple commands together
+- Parameter binding is the key
+- `|` routes information to the correct parameters with very little effort
+- Example: `get-service | out-file c:\services.txt`
+  - Output from `get-service` is piped to Out-File, which will create a list of services in a text file called `services.txt`
+
+#### Getting Help
+
+- `get-help`
+- Auto complete by using the tab key
+- 
