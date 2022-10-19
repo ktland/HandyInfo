@@ -19,7 +19,7 @@
 - Talk to Active Directory, registry, and WMI, natively
 - Bridge the gap between previous languages with aliases
 
-##### Built into many products:
+##### Built into many products
 
 - Microsoft IT products
 - VMware
