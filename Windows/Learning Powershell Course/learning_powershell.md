@@ -41,4 +41,5 @@
 
 - `get-help`
 - Auto complete by using the tab key
-- 
+
+#### Discovering Cmdlets and Aliases
