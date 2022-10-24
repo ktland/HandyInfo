@@ -14,4 +14,10 @@
 - PowerShell has *commands*, the generic term for named executable expressions
 - `Get-Command` displays a list of every command PowerShell is aware of by default
 - Most commands follow a *Verb*-*Noun* scheme
-- 
+- PowerShell command flavors:
+  - *cmdlets*
+    - Most built-in commands from Microsoft
+    - Typically written in other languages such as C#
+  - functions
+  - aliases
+  - external scripts
