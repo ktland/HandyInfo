@@ -11,3 +11,7 @@
 
 #### Exploring PowerShell Commands
 
+- PowerShell has *commands*, the generic term for named executable expressions
+- `Get-Command` displays a list of every command PowerShell is aware of by default
+- Most commands follow a *Verb*-*Noun* scheme
+- 
