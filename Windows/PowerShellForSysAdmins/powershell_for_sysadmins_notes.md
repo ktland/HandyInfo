@@ -19,5 +19,7 @@
     - Most built-in commands from Microsoft
     - Typically written in other languages such as C#
   - functions
+    - commands written in PowerShell
+    - 
   - aliases
   - external scripts
