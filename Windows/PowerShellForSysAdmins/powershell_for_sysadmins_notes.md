@@ -26,4 +26,7 @@
 
 #### Getting Help
 
-- 
+- `Update-Help`
+
+##### Displaying the Docs
+
