@@ -23,4 +23,7 @@
   - aliases
   - external scripts
 - Commands have *parameters* which are values that are passed to a command to customize its behavior
+
+#### Getting Help
+
 - 
