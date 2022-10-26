@@ -62,4 +62,7 @@
 
 - It represents nothing
 - Assigning `$null` to a variable allows you to create that variable but not assign a real value to it
+
+###### $LASTEXITCODE Variable
+
 - 

@@ -3,3 +3,5 @@ Cmdlets
 cmdlets
 cmdlet
 $null
+LASTEXITCODE
+$LASTEXITCODE
