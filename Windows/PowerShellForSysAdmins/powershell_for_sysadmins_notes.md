@@ -42,3 +42,7 @@
 
 - All variables in PowerShell start with a dollar sign `$`
 - Indicates to PowerShell that you're calling a variable and not a cmdlet
+- Variables in PowerShell come in two broad classes:
+  - *user-defined variables*
+  - *automatic variables*
+- 
