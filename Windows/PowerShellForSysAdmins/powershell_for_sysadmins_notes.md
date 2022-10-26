@@ -40,4 +40,5 @@
 
 ##### Displaying and Changing a Variable
 
-- 
+- All variables in PowerShell start with a dollar sign `$`
+- Indicates to PowerShell that you're calling a variable and not a cmdlet
