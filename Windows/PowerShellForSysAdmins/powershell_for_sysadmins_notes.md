@@ -26,7 +26,13 @@
 
 #### Getting Help
 
-- `Update-Help`
+- Similar to the `man` command in Linux, PowerShell has the `help` command and the `Get-Help` cmdlet
+- Example: `Get-Help Add-Content`
+- The `Examples` parameter is very useful
+  - `Get-Help CommandName -Examples`
 
-##### Displaying the Docs
+### Chapter 2: Basic PowerShell Concepts
 
+#### Variables
+
+- A *variable* is a place to store *values*
