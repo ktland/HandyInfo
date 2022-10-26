@@ -48,4 +48,7 @@
 
 ##### User-Defined Variables
 
+- A variable that you *declare* and *initialize* (or *assign*)
+- `$color = 'blue'`
+- The value of a variable won't change unless something, or someone, explicitly changes it
 - 
