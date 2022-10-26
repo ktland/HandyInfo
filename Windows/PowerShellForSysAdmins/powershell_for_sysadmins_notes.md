@@ -51,4 +51,8 @@
 - A variable that you *declare* and *initialize* (or *assign*)
 - `$color = 'blue'`
 - The value of a variable won't change unless something, or someone, explicitly changes it
+- `Get-Variable` command will list all the variables currently in memory
+
+##### Automatic Variables
+
 - 
