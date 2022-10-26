@@ -67,4 +67,7 @@
 
 - When external applications finish running, they finish with an *exit code*, or *return code*
 - Typically, a 0 indicates success and anything else means either failure or another anomaly
-- `$LASTEXITCODE` displays the exit code of the last command
+- `$LASTEXITCODE` displays the exit code of the last application command
+
+###### Preference Variables
+
