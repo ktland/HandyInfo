@@ -55,4 +55,6 @@
 
 ##### Automatic Variables
 
+- Premade variables that PowerShell itself uses
+- Should be treated as *read-only*
 - 
