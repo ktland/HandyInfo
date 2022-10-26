@@ -45,4 +45,7 @@
 - Variables in PowerShell come in two broad classes:
   - *user-defined variables*
   - *automatic variables*
+
+##### User-Defined Variables
+
 - 
