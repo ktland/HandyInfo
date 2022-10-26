@@ -79,3 +79,8 @@
 - A list of all the preference variables can be found by running `Get-Variable` and filtering for all variables ending in *Preference*
 - Example: `Get-Variable -Name *Preference`
 - These variables can be used to configure the various types of output PowerShell can return
+
+#### Data Types
+
+- PowerShell variables come in a variety of forms, or *types*
+- 
