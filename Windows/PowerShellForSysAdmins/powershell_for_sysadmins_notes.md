@@ -71,3 +71,11 @@
 
 ###### Preference Variables
 
+- *Preference variables* control the default behavior of various output streams:
+  - `Error`
+  - `Verbose`
+  - `Debug`
+  - `Information`
+- A list of all the preference variables can be found by running `Get-Variable` and filtering for all variables ending in *Preference*
+- Example: `Get-Variable -Name *Preference`
+- These variables can be used to configure the various types of output PowerShell can return
