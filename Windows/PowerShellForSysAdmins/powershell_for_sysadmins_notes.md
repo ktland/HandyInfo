@@ -57,4 +57,9 @@
 
 - Premade variables that PowerShell itself uses
 - Should be treated as *read-only*
+
+###### $null Variable
+
+- It represents nothing
+- Assigning `$null` to a variable allows you to create that variable but not assign a real value to it
 - 
