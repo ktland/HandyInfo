@@ -36,3 +36,8 @@
 #### Variables
 
 - A *variable* is a place to store *values*
+- You can think of a variable as a digital box
+
+##### Displaying and Changing a Variable
+
+- 

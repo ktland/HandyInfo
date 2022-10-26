@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"gitdoc.enabled": false
+		"gitdoc.enabled": true
 	}
 }
