@@ -83,4 +83,9 @@
 #### Data Types
 
 - PowerShell variables come in a variety of forms, or *types*
+- Several data types:
+  - bools
+  - strings
+  - integers
+- A variable's data type can be changed without errors
 - 
