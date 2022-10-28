@@ -114,3 +114,4 @@ Numbers can be represented in PowerShell in two main ways:
 - By default, PowerShell stores integers by using the 32-bit signed `Int32` type
   - 
 - The bit count determines how big (or small) a number the variable can hold
+- 
