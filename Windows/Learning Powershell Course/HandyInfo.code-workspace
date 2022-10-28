@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"gitdoc.enabled": true
+		"gitdoc.enabled": true,
+		"gitdoc.timeZone": "America/Chicago"
 	}
 }
