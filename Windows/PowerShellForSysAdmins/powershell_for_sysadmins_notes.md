@@ -88,4 +88,29 @@
   - strings
   - integers
 - A variable's data type can be changed without errors
-- 
+
+##### Boolean Values
+
+- True or false value (1 or 0)
+- Used to represent binary conditions, like a light switch being on or off
+- PowerShell booleans are called *bools*
+- The two boolean values are represented by the automatic variables `$true` and `$false`
+  - These automatic variables are hard-coded into PowerShell and cannot be changed
+
+##### Integers and Floating Points
+
+Numbers can be represented in PowerShell in two main ways:
+1. integer
+2. floating-point 
+
+###### Integer Types
+
+- *Integer* data types hold only whole numbers and will round any decimal input to the nearest integer
+- Integer data types come in:
+  - *Signed* data types
+    - Can store both positive and negative numbers
+  - *Unsigned* data types
+    - Values with no sign
+- By default, PowerShell stores integers by using the 32-bit signed `Int32` type
+  - 
+- The bit count determines how big (or small) a number the variable can hold

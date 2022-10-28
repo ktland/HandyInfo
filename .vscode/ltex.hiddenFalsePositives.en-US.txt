@@ -1,0 +1,1 @@
+{"rule":"MISSING_GENITIVE","sentence":"^\\QPowerShell variables come in a variety of forms, or types\nSeveral data types:\nbools\nstrings\nintegers\nA variable's data type can be changed without errors\\E$"}

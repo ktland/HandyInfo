@@ -5,3 +5,4 @@ cmdlet
 $null
 LASTEXITCODE
 $LASTEXITCODE
+bools
