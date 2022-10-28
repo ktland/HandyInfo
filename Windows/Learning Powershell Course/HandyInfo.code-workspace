@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"gitdoc.enabled": true,
-		"gitdoc.timeZone": "America/Chicago"
+		"gitdoc.timeZone": "America/Chicago",
+		"gitdoc.autoCommitDelay": 5000
 	}
 }
