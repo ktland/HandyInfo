@@ -17,4 +17,6 @@ This command shows a list of domain controllers where the current user resides.
 
 Checks the status of BitLocker on the current machine
 
-`manage-bde -status`
+`manage-bde -status`  
+
+ 
